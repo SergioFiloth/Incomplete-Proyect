@@ -26,7 +26,7 @@
         <h1 class="title">
             Publisher <span class="sT">» Dashboard</span>
         </h1>
-        <a href="../websiteAdd/" class="btn">+ Submit Website</a>
+        <a href="../websiteAdd/index.php" class="btn">+ Submit Website</a>
     </div>
     <div class="main container">
         <?php

@@ -1,10 +1,10 @@
 <footer class="footer">
     <div class="firtSection">
             <div class="footer__links">
-                <a class="linksF" href="/pages/mp/">Buy gues posts</a>
-                <a class="linksF" href="/pages/sgp/">Sell gues post</a>
-                <a class="linksF" href="/pages/mp/">Marketplace</a>
-                <a class="linksF" href="/pages/contact/">Contact</a>
+                <a class="linksF" href="/marketplace.php">Buy gues posts</a>
+                <a class="linksF" href="/sellGuestPost.php">Sell gues post</a>
+                <a class="linksF" href="/marketplace.php">Marketplace</a>
+                <a class="linksF" href="/contact.php">Contact</a>
             </div>
             <hr class="fS">
             <div class="footer__description">
@@ -20,10 +20,10 @@
     <div class="secondSection">
             &copy; 2020 BuySellGuestPost.com
             <div class="secondSectionLink">
-                <a class="sSecLink" href="/pages/faqs/">FAQs</a>
-                <a class="sSecLink" href="/pages/term/">Terms</a>
-                <a class="sSecLink" href="/pages/privacy/">Privacy</a>
-                <a class="sSecLink" href="/pages/refund/">Refunds</a>
+                <a class="sSecLink" href="/faqs.php">FAQs</a>
+                <a class="sSecLink" href="/term.php">Terms</a>
+                <a class="sSecLink" href="/privacy.php">Privacy</a>
+                <a class="sSecLink" href="/refunds.php">Refunds</a>
             </div>
     </div>
 </footer>

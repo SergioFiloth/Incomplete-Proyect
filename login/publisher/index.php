@@ -37,7 +37,7 @@
                     <div class="contI">
                         <div class="tC">
                             <h3>Total purchases</h3>
-                            <a href="earning/" class="detail">Details</a>
+                            <a href="earning/index.php" class="detail">Details</a>
                         </div>
                         <div class="value">
                             $nValue
@@ -48,7 +48,7 @@
                     <div class="contI">
                         <div class="tC">
                             <h3>Active Orders</h3>
-                            <a href="orders/" class="detail">Details</a>
+                            <a href="orders/index.php" class="detail">Details</a>
                         </div>
                         <div class="value">
                             $nValue
@@ -59,7 +59,7 @@
                     <div class="contI">
                         <div class="tC">
                             <h3>Total Websites</h3>
-                            <a href="websites/" class="detail">Details</a>
+                            <a href="websites/index.php" class="detail">Details</a>
                         </div>
                         <div class="value">
                             $nValue
@@ -89,11 +89,11 @@
                     <tr class="trH tTH">
                         <th class="thT">
                             <span>
-                                Your Properties (<a href="websites/" class="lTable">View All</a>)
+                                Your Properties (<a href="websites/index.php" class="lTable">View All</a>)
                             </span>
                         </th>
                         <th>
-                            <a href="websiteAdd" class="lTable addW">+ Submit Website</a>
+                            <a href="websiteAdd/index.php" class="lTable addW">+ Submit Website</a>
                         </th>
                     </tr>
                     <tr class="trD tTD">

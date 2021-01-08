@@ -12,25 +12,25 @@
             <div class="nav__link">
                 <ul class="nav__link--navbar">
                     <li class="navbar">
-                        <a class="navbar__link" href="/Amit/pages/sgp/">Sell Guest Posts</a>
+                        <a class="navbar__link" href="/UP/sellGuestPost.php">Sell Guest Posts</a>
                     </li>
                     <li class="navbar">
-                        <a class="navbar__link" href="/Amit/pages/mp/">Marketplace</a>
+                        <a class="navbar__link" href="/UP/marketplace.php">Marketplace</a>
                     </li>
                     <li class="navbar">
-                        <a class="navbar__link" href="/Amit/pages/gps">Guest Posting Services</a>
+                        <a class="navbar__link" href="/UP/guestPostingServices">Guest Posting Services</a>
                     </li>
                     <li class="navbar">
-                        <a class="navbar__link" href="/Amit/pages/da-dr">Increase DA/DR</a>
+                        <a class="navbar__link" href="/UP/da-dr.php">Increase DA/DR</a>
                     </li>
                 </ul>
             </div>
             <div class="nav__cardAndLogin">
                 <ul class="nav__cardAndLogin--ul">
-                    <a class="cart" href="/Amit/pages/cart/">
+                    <a class="cart" href="/cart.php">
                         <li class="numberItem"><i class="fas fa-cart-plus cart"></i> 0 item</li>
                     </a>
-                    <li class="login"><a href="/Amit/pages/login/">Login</a></li>
+                    <li class="login"><a href="/UP/login.php">Login</a></li>
                 </ul>
             </div>
         </div>

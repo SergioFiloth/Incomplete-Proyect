@@ -15,8 +15,8 @@
     <label for="password" class="label">Password</label>
     <input type="password" name="pass" id="password" placeholder="Password" class="input">
     <span>
-        By Registering, You Agree To <a href="/pages/privacy/" class="formLinks">The Privacy Policy</a>, <a
-            href="/pages/refunds/" class="formLinks">Refund Policy</a> & <a href="/pages/refunds/"
+        By Registering, You Agree To <a href="/privacy.php" class="formLinks">The Privacy Policy</a>, <a
+            href="/refunds.php" class="formLinks">Refund Policy</a> & <a href="/term.php"
             class="formLinks">Terms Of
             Services.</a>
     </span>

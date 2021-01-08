@@ -73,7 +73,7 @@ if (empty($_SESSION['active'])) {
                 include("../../templates/orders.php")
             ?>
             <div class="cBO">
-                <a href="orders/" class="btnO">Go to Orders Page</a>
+                <a href="orders/index.php" class="btnO">Go to Orders Page</a>
             </div>
         </div>
     </div>

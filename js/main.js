@@ -76,5 +76,5 @@ if (btnM) {
 let linkM = document.getElementById("linkM")
 
 if (linkM) {
-    linkM.href = "/pages/mp/"
+    linkM.href = "/marketplace.php"
 }

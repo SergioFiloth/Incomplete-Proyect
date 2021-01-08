@@ -29,7 +29,7 @@
                 Let the leading and the most relevant media talk about your business
             </p>
             <div>
-                <a href="/pages/mp/" class="btn"><i class="fas fa-link iconBtn-right"></i> Buy Guest Post</a>
+                <a href="/marketplace.php" class="btn"><i class="fas fa-link iconBtn-right"></i> Buy Guest Post</a>
             </div>
         </article>
         <article class="main__article text-left-b">
@@ -40,7 +40,7 @@
                 Get paid for what you love - creating and placing content on your website.
             </p>
             <div>
-                <a href="/pages/sgp/" class="btn">Sell Guest Posts <i class="fas fa-plus iconBtn-left"></i></a>
+                <a href="/sellGuestPost.php" class="btn">Sell Guest Posts <i class="fas fa-plus iconBtn-left"></i></a>
             </div>
         </article>
     </main>
