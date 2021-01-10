@@ -54,7 +54,7 @@ if (!empty($_SESSION['active'])) {
     <!-- Principal Styles -->
     <link rel="stylesheet" href="css/styles.css">
     <!-- Styles of the pages -->
-    <link rel="stylesheet" href="login.css">
+    <link rel="stylesheet" href="css/login.css">
 </head>
 
 <body>
